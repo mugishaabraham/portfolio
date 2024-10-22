@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm ISHIMWE KARAMAGE YVES</h1>
+<h1 align="center">Hi 👋, I'm MUGISHA ABRAHAM</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
-
-- 👨‍💻 All of my projects are available at [ishimwe-karamage-yves.vercel.app](ishimwe-karamage-yves.vercel.app)
 
 - 💬 Ask me about **Frontend Development, Backend Development, FullStack Development**
 
-- 📫 How to reach me **ishimweyves99@gmail.com**
+- 📫 How to reach me **mugishaabraham12@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_SD8yObIOz1eSnTxtKEdqu_QpEowiJwf/view?usp=drive_link](https://drive.google.com/file/d/1_SD8yObIOz1eSnTxtKEdqu_QpEowiJwf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishimwe yves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishimwe yves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishimwe yves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugisha abraham" height="30" width="40" /></a>
 <a href="https://instagram.com/ishimwe_cw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishimweyves_99" height="30" width="40" /></a>
 </p>
 
